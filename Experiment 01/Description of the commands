@@ -1,0 +1,10 @@
+Command ls: The ls command is used to display the list of all files an ddirectories presen in the current working directory
+Command ls -la : Lists all files and folders, including hidden ones, with detailed information.
+Command ls -l: Lists files and folders in long (detailed) format, but without hidden files.
+Command who: Shows who is currently logged in to the system.
+Command date: Displays the current system date and time.
+Command cp: Copies files or directories.
+Command cat: Displays the contents of a file.
+Command mv: Moves or renames files and folders.
+Command pwd: Shows the current working directory (where you are).
+Command mkdir: Creates a new directory (folder).
